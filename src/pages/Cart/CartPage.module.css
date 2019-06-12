@@ -1,0 +1,21 @@
+.Cart {
+
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+
+.Cart > ul {
+    background-color: rgb(201, 201, 201);
+    display: flex;
+    justify-content:space-around
+    
+}
+
+.Cart > ul > li {
+    
+   
+    list-style-type: none;
+}
+
+
